@@ -1,0 +1,42 @@
+{
+  "mode": "running",
+  "elapsedMs": 2470,
+  "score": 625,
+  "bestScore": 625,
+  "waveNumber": 2,
+  "waveSize": 2,
+  "wavesResolved": 2,
+  "wavesCleared": 2,
+  "perfectWaves": 2,
+  "ducksCleared": 3,
+  "escapedDucks": 0,
+  "shotsRemaining": 1,
+  "totalShots": 3,
+  "hits": 3,
+  "accuracy": 1,
+  "combo": 2,
+  "maxCombo": 2,
+  "pendingWaveMs": 850,
+  "fleeMode": false,
+  "waveEscapes": 0,
+  "currentWaveHits": 2,
+  "currentWaveShots": 2,
+  "lastResolvedWaveSize": 2,
+  "lastWaveBonus": 140,
+  "statusLine": "Wave 2 cleared. Next flock loading.",
+  "crosshair": {
+    "row": 3,
+    "col": 4
+  },
+  "ducks": [],
+  "recentEvents": [
+    "Each wave has three shells. P pauses and R resets.",
+    "Wave 1 launched with 1 ducks.",
+    "Duck 1-1 dropped with combo 1 +100.",
+    "Wave 1 clean sweep +105.",
+    "Wave 2 launched with 2 ducks.",
+    "Duck 2-2 dropped with combo 1 +130.",
+    "Duck 2-1 dropped with combo 2 +150.",
+    "Wave 2 clean sweep +140."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "title",
+  "elapsedMs": 0,
+  "score": 0,
+  "bestScore": 785,
+  "waveNumber": 0,
+  "waveSize": 0,
+  "wavesResolved": 0,
+  "wavesCleared": 0,
+  "perfectWaves": 0,
+  "ducksCleared": 0,
+  "escapedDucks": 0,
+  "shotsRemaining": 3,
+  "totalShots": 0,
+  "hits": 0,
+  "accuracy": 1,
+  "combo": 0,
+  "maxCombo": 0,
+  "pendingWaveMs": 0,
+  "fleeMode": false,
+  "waveEscapes": 0,
+  "currentWaveHits": 0,
+  "currentWaveShots": 0,
+  "lastResolvedWaveSize": 0,
+  "lastWaveBonus": 0,
+  "statusLine": "Press Start. Space fires once the run is live.",
+  "crosshair": {
+    "row": 2,
+    "col": 6
+  },
+  "ducks": [],
+  "recentEvents": [
+    "Press Start or Space to launch the hunt.",
+    "Move with arrows or WASD.",
+    "Each wave has three shells. P pauses and R resets."
+  ]
+}

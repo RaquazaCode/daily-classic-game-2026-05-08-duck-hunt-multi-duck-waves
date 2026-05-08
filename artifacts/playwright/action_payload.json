@@ -1,0 +1,24 @@
+[
+  {
+    "buttons": [
+      "left_mouse_button"
+    ],
+    "mouse_x": 238,
+    "mouse_y": 834,
+    "frames": 1
+  },
+  {
+    "buttons": [],
+    "mouse_x": 238,
+    "mouse_y": 834,
+    "frames": 24
+  },
+  {
+    "buttons": [
+      "left_mouse_button"
+    ],
+    "mouse_x": 238,
+    "mouse_y": 886,
+    "frames": 1
+  }
+]

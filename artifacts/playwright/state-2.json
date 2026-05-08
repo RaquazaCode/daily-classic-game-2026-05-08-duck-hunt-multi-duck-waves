@@ -1,0 +1,64 @@
+{
+  "mode": "running",
+  "elapsedMs": 3350,
+  "score": 625,
+  "bestScore": 625,
+  "waveNumber": 3,
+  "waveSize": 3,
+  "wavesResolved": 2,
+  "wavesCleared": 2,
+  "perfectWaves": 2,
+  "ducksCleared": 3,
+  "escapedDucks": 0,
+  "shotsRemaining": 3,
+  "totalShots": 3,
+  "hits": 3,
+  "accuracy": 1,
+  "combo": 0,
+  "maxCombo": 2,
+  "pendingWaveMs": 0,
+  "fleeMode": false,
+  "waveEscapes": 0,
+  "currentWaveHits": 0,
+  "currentWaveShots": 0,
+  "lastResolvedWaveSize": 0,
+  "lastWaveBonus": 0,
+  "statusLine": "Wave 3: 3 ducks inbound.",
+  "crosshair": {
+    "row": 3,
+    "col": 3
+  },
+  "ducks": [
+    {
+      "id": "3-1",
+      "row": 1,
+      "col": 13,
+      "dir": -1,
+      "intervalMs": 236
+    },
+    {
+      "id": "3-2",
+      "row": 3,
+      "col": 0,
+      "dir": 1,
+      "intervalMs": 252
+    },
+    {
+      "id": "3-3",
+      "row": 4,
+      "col": 13,
+      "dir": -1,
+      "intervalMs": 268
+    }
+  ],
+  "recentEvents": [
+    "Wave 1 launched with 1 ducks.",
+    "Duck 1-1 dropped with combo 1 +100.",
+    "Wave 1 clean sweep +105.",
+    "Wave 2 launched with 2 ducks.",
+    "Duck 2-2 dropped with combo 1 +130.",
+    "Duck 2-1 dropped with combo 2 +150.",
+    "Wave 2 clean sweep +140.",
+    "Wave 3 launched with 3 ducks."
+  ]
+}
