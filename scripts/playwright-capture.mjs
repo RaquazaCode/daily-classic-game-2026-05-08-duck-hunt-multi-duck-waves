@@ -171,6 +171,10 @@ async function captureFrames(page, clipName, frameCount, advanceMs) {
     });
     createGif(mixedFrames, path.join(gifDir, 'clip-03-pause-reset.gif'));
 
+    [openingFrames, cleanSweepFrames, pauseFrames, resetFrames, mixedFrames].forEach((dir) => {
+      rmSync(dir, { recursive: true, force: true });
+    });
+
     writeFileSync(path.join(outDir, 'render_game_to_text.txt'), `${await page.evaluate(() => window.render_game_to_text())}\n`, 'utf8');
     writeJson('action_payload.json', [
       {
